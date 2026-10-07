@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.dlnaserver.com/assets/img/og.png" alt="DLNA Server" width="520">
+  <img src="./og.png" alt="DLNA Server" width="520">
 </p>
 
 <h1 align="center">DLNA Server for macOS</h1>
@@ -79,3 +79,4 @@ reproductor web.
   prueba gratuita, licencia completa 19,90 €
 - Web: [www.dlnaserver.com](https://www.dlnaserver.com)
 - Soporte: [support@it-systems.es](mailto:support@it-systems.es)
+
