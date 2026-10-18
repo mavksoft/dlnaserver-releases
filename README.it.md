@@ -23,9 +23,9 @@
 
 | | |
 |---|---|
-| 📥 **Versione completa** | [Scarica l'ultimo DMG](https://github.com/mavksoft/dlnaserver-releases/releases/latest) — prova gratuita, licenza a vita 19,90 € |
-| 🌍 **Sito ufficiale** | [www.dlnaserver.com](https://www.dlnaserver.com) — guide, assistenza e acquisto |
-| 📱 **Lite** | Un'edizione Lite in sandbox è in arrivo sul Mac App Store |
+| <img src='https://raw.githubusercontent.com/mavksoft/dlnaserver-releases/main/icons/apple.svg' width='15' style='vertical-align:-2px' alt='apple'> **Versione completa** | [Scarica l'ultimo DMG](https://github.com/mavksoft/dlnaserver-releases/releases/latest) — prova gratuita, licenza a vita 19,90 € |
+| <img src='https://www.dlnaserver.com/assets/img/logo.png' width='15' style='vertical-align:-2px'> **Sito ufficiale** | [www.dlnaserver.com](https://www.dlnaserver.com) — guide, assistenza e acquisto |
+| <img src='https://raw.githubusercontent.com/mavksoft/dlnaserver-releases/main/icons/appstore.svg' width='15' style='vertical-align:-2px' alt='appstore'> **Lite** | Un'edizione Lite in sandbox è in arrivo sul Mac App Store |
 
 ## Che cos'è
 

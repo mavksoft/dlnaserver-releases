@@ -4,7 +4,14 @@ All notable releases published in this repository.
 
 ## v1.1.12 — 2026-10-13
 
-Corrige el cierre inesperado al salir de la app. Al instalar una actualización ya no pregunta si quieres salir.
+## DLNA Server v1.1.12
+
+Official signed release for macOS 13+ (universal: Apple Silicon & Intel).
+
+- `DLNA-Server-1.1.12.dmg` — drag-to-Applications installer (notarized)
+- `DLNA-Server-1.1.12.zip` — EdDSA-signed auto-update archive
+
+Docs: https://mavksoft.github.io/dlnaserver-releases/ · Website: https://www.dlnaserver.com
 
 **Assets:** `DLNA-Server-1.1.12.dmg` · `DLNA-Server-1.1.12.zip`
 
