@@ -29,6 +29,8 @@
 
 DLNA Server convierte la carpeta de películas de tu Mac en un servidor multimedia de verdad: tus series y películas aparecen en la televisión con su póster, su sinopsis y sus subtítulos, sin instalar nada en la tele. Todo funciona en local — tu biblioteca nunca sale de tu Mac.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Funciones
 
 - **Servidor DLNA/UPnP** — descubrimiento SSDP, navegación ContentDirectory y streaming HTTP con rangos. Compatible con teles Samsung/LG/Sony, VLC, Kodi, consolas…
